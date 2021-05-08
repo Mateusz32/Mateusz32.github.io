@@ -1,6 +1,6 @@
 $(document).ready(function() {
    const apiRoot = 'https://blooming-scrubland-00919.herokuapp.com/v1/task/';
-   const trelloApiRoot = 'https://api.trello.com/1/members/mateusz_19@o2.pl/boards?key=a52b0319c84a238fe4d8bb3def9324d7&token=e6fca857d53a11b2268bfcd47dc864b000d2d4d7ed58d61fa1b7d5ca96f376ca';
+   const trelloApiRoot = 'https://api.trello.com/1/members/kacperbojarski2/boards?key=1033b6bd32d2fd988980cd08aa8c8949&token=b289539556b4a8909c6b869582aa9fcd1adadc7dbd01081d7a154e896e83cef2';
    const datatableRowTemplate = $('[data-datatable-row-template]').children()[0];
    const $tasksContainer = $('[data-tasks-container]');
 
